@@ -1,4 +1,4 @@
-# Phone_Usage_India_Reduced
+# Mobile-Usage-Data-Analysis
 🖥️ This repository contains a Python-based data analysis project focused on analyzing mobile usage behavior using a structured dataset.
 📁 The dataset includes user demographics, smartphone details, screen time, data usage, app usage, gaming, streaming, and monthly recharge costs.
 📈 Performed exploratory data analysis (EDA) using Python libraries to understand user behavior patterns.
